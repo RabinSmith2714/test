@@ -1,0 +1,25 @@
+# Node modules for both projects
+/project-a/node_modules/
+/project-b/node_modules/
+
+# Build outputs
+/project-a/dist/
+/project-b/dist/
+/project-a/build/
+/project-b/build/
+
+# Logs
+**/npm-debug.log
+**/yarn-debug.log
+**/yarn-error.log
+
+# Environment variables
+**/.env
+**/.env.*.local
+
+# VSCode settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
